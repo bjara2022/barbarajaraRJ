@@ -1,0 +1,29 @@
+.menu-navbar-coneiner{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    box-shadow: gray;
+    height: 90px;
+}
+.menu-title{
+    margin-left: 10%;
+    color: whitesmoke;
+    font-size: 30px;
+
+}
+.menu-items{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin-right: 300px;
+}
+.menu-list{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-top: 20px;
+    color: beige;
+    font-size: 20px;
+}
